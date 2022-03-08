@@ -1,0 +1,36 @@
+.world-weather {
+	font-family: cursive;
+	font-size: 2rem;
+}
+
+.todays-weather {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.todays-weather p {
+	text-align: left;
+	padding: 0.5rem;
+}
+
+.user-input {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.user-input {
+	padding-top: 2rem;
+	margin-top: 2rem;
+	border-top: 1px dashed black;
+}
+
+.user-input select {
+	padding: 1rem;
+	margin-left: 1rem;
+}
+
+select option {
+	padding: 1rem;
+}

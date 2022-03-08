@@ -1,0 +1,21 @@
+.single-todo{
+    display: flex;
+}
+
+
+.people{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 1rem
+
+}
+
+.person {
+    text-align: left;
+}
+
+.person a {
+    color: azure;
+    text-decoration: none;
+}

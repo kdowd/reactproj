@@ -1,0 +1,16 @@
+.all-todos {
+	background-color: plum;
+}
+
+.single-todo {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 12px;
+	border-bottom: 1px solid grey;
+	padding: 1rem;
+}
+
+.todo-completed {
+	text-decoration: line-through;
+}
